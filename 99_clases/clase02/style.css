@@ -1,0 +1,39 @@
+body {}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+h2 {
+    color: coral;
+}
+
+p {
+    text-align: justify;
+}
+
+.fondoNegro {
+    background-color: black;
+    color: white;
+}
+
+.fondoGris {
+    background-color: #B7CBA2;
+    color: white;
+}
+
+.fondoBlanco {
+    background-color: #FF5733;
+    color: white;
+}
+
+.coso {
+    text-align: center;
+}
+
+a {
+    color: #FF5733;
+    font-weight: bold;
+}
