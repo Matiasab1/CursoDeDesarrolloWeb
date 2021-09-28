@@ -1,0 +1,24 @@
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.verde {
+    background-color: green;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    font-style: italic;
+    color: brown;
+}
+
+.imagen-propia {
+    width: 100%;
+}
